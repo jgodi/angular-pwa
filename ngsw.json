@@ -1,0 +1,45 @@
+{
+  "configVersion": 1,
+  "index": "/meow-pwa/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/meow-pwa/favicon.ico",
+        "/meow-pwa/index.html",
+        "/meow-pwa/inline.83823322ffbf49d1d793.bundle.js",
+        "/meow-pwa/main.ff95f0c07ee5702ab84f.bundle.js",
+        "/meow-pwa/polyfills.61df7d7ec492d95bb0b2.bundle.js",
+        "/meow-pwa/styles.f9558801976618cec3e3.bundle.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/meow-pwa/assets/icon-16x16.png",
+        "/meow-pwa/assets/icon-32x32.png",
+        "/meow-pwa/assets/icon-512x512.png",
+        "/meow-pwa/assets/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/meow-pwa/inline.83823322ffbf49d1d793.bundle.js": "76418a034436314614d53d8f15eb5a60790c48fe",
+    "/meow-pwa/assets/icon-16x16.png": "d2e03dc32ed4b23a6ca7c2eceb744d56aa1a791f",
+    "/meow-pwa/main.ff95f0c07ee5702ab84f.bundle.js": "7872a63406bb512de6f931a1d547378875d44296",
+    "/meow-pwa/assets/icon-32x32.png": "4981262b9d730ea16b0d02e87b0bcbf0190d3f70",
+    "/meow-pwa/polyfills.61df7d7ec492d95bb0b2.bundle.js": "ff1216348b48e80e4e810b0f7b785cb69647895a",
+    "/meow-pwa/assets/icon-512x512.png": "7f6579101ec54e36cc2b7d8ac37c538094765159",
+    "/meow-pwa/styles.f9558801976618cec3e3.bundle.css": "354975c6193eab3eaaab4b68b7b054dce6429c87",
+    "/meow-pwa/assets/icon-96x96.png": "0a42cd8b3e52aafb0e62be41fd00973d7d4fd440",
+    "/meow-pwa/favicon.ico": "c5543475ed1eaf5ae0d1ed943bc8aa264925b247",
+    "/meow-pwa/index.html": "24cad17dd4d8ead1fc8792c0d7ef298f1c9c04b9"
+  }
+}
