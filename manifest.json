@@ -1,0 +1,27 @@
+{
+    "name": "MeowPWA",
+    "short_name": "MeowPWA",
+    "theme_color": "#FFFFFF",
+    "background_color": "#01579B",
+    "start_url": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [{
+            "src": "assets/icon-16x16.png",
+            "sizes": "16x16",
+            "type": "image/png",
+            "density": "0.50"
+        }, {
+            "src": "assets/icon-32x32.png",
+            "sizes": "32x32",
+            "type": "image/png",
+            "density": "0.75"
+        },
+        {
+            "src": "assets/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "density": "2.0"
+        }
+    ]
+}
