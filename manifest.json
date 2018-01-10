@@ -9,19 +9,21 @@
     "icons": [{
             "src": "assets/icon-16x16.png",
             "sizes": "16x16",
-            "type": "image/png",
-            "density": "0.50"
+            "type": "image/png"
         }, {
             "src": "assets/icon-32x32.png",
             "sizes": "32x32",
-            "type": "image/png",
-            "density": "0.75"
+            "type": "image/png"
         },
         {
             "src": "assets/icon-96x96.png",
             "sizes": "96x96",
-            "type": "image/png",
-            "density": "2.0"
+            "type": "image/png"
+        },
+        {
+            "src": "assets/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ]
 }
