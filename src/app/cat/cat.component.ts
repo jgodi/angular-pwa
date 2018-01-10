@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
-const BASE_URL = 'http://thecatapi.com/api/images/get?format=src&type=gif&category=';
+const BASE_URL = 'https://thecatapi.com/api/images/get?format=src&type=gif&category=';
 
 @Component({
   selector: 'meow-cat',
